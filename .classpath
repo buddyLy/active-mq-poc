@@ -1,0 +1,37 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-broker/5.9.0/activemq-broker-5.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-camel/5.9.0/activemq-camel-5.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-client/5.9.0/activemq-client-5.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-jms-pool/5.9.0/activemq-jms-pool-5.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-openwire-legacy/5.9.0/activemq-openwire-legacy-5.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-pool/5.9.0/activemq-pool-5.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/activemq/activemq-spring/5.9.0/activemq-spring-5.9.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-core/2.12.1/camel-core-2.12.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-jms/2.12.1/camel-jms-2.12.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-spring/2.12.1/camel-spring-2.12.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/ibm/mq/com.ibm.mq/7.5.0.3/com.ibm.mq-7.5.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/ibm/mq/com.ibm.mq.headers/7.5.0.3/com.ibm.mq.headers-7.5.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/ibm/mq/com.ibm.mq.jmqi/7.5.0.3/com.ibm.mq.jmqi-7.5.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/ibm/mq/com.ibm.mqjms/7.5.0.3/com.ibm.mqjms-7.5.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.3/commons-logging-1.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-pool/commons-pool/1.6/commons-pool-1.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/ibm/mq/dhbcore/7.5.0.3/dhbcore-7.5.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-j2ee-management_1.1_spec/1.0.1/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1.1/geronimo-jms_1.1_spec-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.0.1B_spec/1.0.1/geronimo-jta_1.0.1B_spec-1.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/fusesource/hawtbuf/hawtbuf/1.9/hawtbuf-1.9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.6/jaxb-impl-2.2.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/3.2.4.RELEASE/spring-aop-3.2.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/3.2.4.RELEASE/spring-beans-3.2.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/3.2.4.RELEASE/spring-context-3.2.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/3.2.4.RELEASE/spring-core-3.2.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/3.2.4.RELEASE/spring-expression-3.2.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-jms/3.2.4.RELEASE/spring-jms-3.2.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-tx/3.2.4.RELEASE/spring-tx-3.2.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/xbean/xbean-spring/3.14/xbean-spring-3.14.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>
